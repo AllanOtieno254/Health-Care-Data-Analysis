@@ -8,7 +8,7 @@ This project provides a comprehensive exploratory data analysis (EDA) of a healt
 
 ## 📊 Dataset Description
 
-The dataset used in this project contains records of patients, their demographics, diseases diagnosed, and frequency of visits. While the file structure is not explicitly stated, it includes the following typical features based on the analysis:
+The dataset used in this project contains records of patients, their demographics, diseases  diagnosed, and frequency of visits. While the file structure is not explicitly stated, it includes the following typical features based on the analysis:
 
 - `Patient ID`
 - `Age`
