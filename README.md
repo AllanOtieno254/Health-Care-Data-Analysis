@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project provides a comprehensive exploratory data analysis (EDA) of a healthcare dataset, with a focus on understanding patient demographics, disease prevalence, and visit patterns. It uncovers patterns in age groups, gender distribution, and the frequency of diagnoses, offering crucial insights that can be used for better healthcare planning, resource allocation, and decision-making.
+This project provides a comprehensive exploratory data analysis (EDA) of a healthcare dataset, with a focus on understanding patient demographics, disease prevalence, and visit patterns. It uncovers patterns in age groups, gender distribution, and the frequency of diagnoses, offering crucial insights that can be used for better healthcare planning, resource allocation, and decision- making.
 
 ---
 
